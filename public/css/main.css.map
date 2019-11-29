@@ -90,7 +90,8 @@
         "../../node_modules/bootstrap/scss/utilities/_spacing.scss",
         "../../node_modules/bootstrap/scss/utilities/_text.scss",
         "../../node_modules/bootstrap/scss/utilities/_visibility.scss",
-        "../../node_modules/bootstrap/scss/_print.scss"
+        "../../node_modules/bootstrap/scss/_print.scss",
+        "../../src/sass/_header.sass"
     ],
     "names": [],
     "file": "main.css"
